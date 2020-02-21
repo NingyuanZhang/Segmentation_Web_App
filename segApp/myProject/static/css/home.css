@@ -1,0 +1,40 @@
+.Guide{
+    text-align: left;
+    font-family: Lato;
+    margin-top: 0px;
+    margin-bottom:30px;
+    margin-left:0px;
+    margin-right:0px;
+    border-bottom: 1px solid #F9F2E8;
+    border-top: 1px solid #F9F2E8;
+}
+
+#page-breadcrumb {
+  background-image: url(../images/tour-bg.png);
+  background-color: #fbfafa;
+  background-repeat: repeat-x;
+  height: 130px;
+  background-position: center;
+  display: table;
+  position: static;
+  width: 100%;
+}
+.uploafForm{
+    margin-left:100px;
+    margin-bottom: 20px;
+}
+
+
+.parent {
+  display: table;
+  width: 100%;
+}
+.left,.right {
+  display: table-cell;
+  table-layout: fixed;
+}
+.left {
+  width:600px;
+  padding-right: 10px;
+
+}

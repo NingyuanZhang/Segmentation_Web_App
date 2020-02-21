@@ -1,0 +1,37 @@
+#deleteform{
+    display: inline;
+}
+.jumbotron {
+    background-color: #C0C0C0;
+}
+
+.button{
+    text-align: center;
+    margin : 20px;
+}
+.content{
+  font-family:Lato, sans-serif;
+}
+
+.trademark {
+  margin-top: 60px;
+  padding-bottom: 15px;
+  background-color: white;
+  height: 200px;
+  background-position: center;
+  display: table;
+  position: static;
+  width: 100%;
+  background-image: url(../images/slider-bg.png);
+  background-repeat: repeat-x;
+
+}
+
+.trademark p {
+  text-align:center;
+  font-size: 12px;
+  vertical-align:bottom;
+  display:table-cell;
+  color: #855b2e;
+  font-family:Lato;
+}
